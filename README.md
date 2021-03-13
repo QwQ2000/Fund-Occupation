@@ -1,3 +1,2 @@
-# XJB
-1. 第一次写py程序
-2. 一个资金占用率excel自动处理工具
+# Fund Occupation
+一个资金占用率excel表格自动处理脚本
